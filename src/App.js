@@ -111,7 +111,7 @@ const App = () => {
         <Card projectName="Drum Kit Game" for="Personal" desc="The drum kit game is a keyboard-based drum simulator. Pressing the 'w', 'a', 's', 'd', 'j', 'k', or 'l keys produces different drum sounds like snare, kick, hi-hat or cymbal crash. Users can create rhythm patterns and beats with various sound combinations, simulating playing an actual drum kit. " image="drum.png" url=" https://github.com/HazimDeveloper/Drumkit.git" />
       </Row>
       <Row style={{marginBottom:" 150px",alignItems:"center",marginTop: '150px'}}> 
-        <Card projectName="Simon Game" for="Personal" desc="" image="simon.png" url=" https://github.com/HazimDeveloper/TheSimonGame.git" />
+        <Card projectName="Simon Game" for="Personal" desc="Simon Game is a popular memory game where players must remember the sequence of flashing lights and sounds. The Simon Game website offers a virtual version of the game for free, with different difficulty levels and modes." image="simon.png" url=" https://github.com/HazimDeveloper/TheSimonGame.git" />
       </Row>
 </Container>
 
