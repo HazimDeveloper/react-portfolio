@@ -114,7 +114,7 @@ const App = () => {
           <Card projectName="Simon Game" language="HTML , CSS , JS"  for="Personal" desc="Simon Game is a popular memory game where players must remember the sequence of flashing lights and sounds. The Simon Game website offers a virtual version of the game for free, with different difficulty levels and modes." image="simon.png" url=" https://github.com/HazimDeveloper/TheSimonGame.git" />
         </Row>
         <Row style={{ marginBottom: " 150px", alignItems: "center", marginTop: '150px' }}>
-          <Card projectName="Search Movie" language="HTML , CSS , PHP NATIVE"  for="Personal" desc="This project is made by using tmdb api" image="movie-api.png" url="https://github.com/HazimDeveloper/movie-api-in-react" />
+          <Card projectName="Searching Movie" language="REACT JS"  for="Personal" desc="This project is made by using tmdb api" image="movie-api.png" url="https://github.com/HazimDeveloper/movie-api-in-react" />
         </Row>
       </Container>
 
