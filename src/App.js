@@ -72,7 +72,7 @@ const App = () => {
           <h2><span className='text-primary'>Projects</span> that I did</h2>
         </div>
         <Row style={{ marginBottom: " 150px", alignItems: "center", marginTop: '150px' }}>
-          <Card projectName="Aroma Kitchen" image="aromakitchen.png" language="HTML , CSS , LARAVEL" for="Freelance" desc="Aromakitchen is a website focused on providing information, tips, and recipes related to aromatherapy and essential oils. It aims to promote natural and holistic approaches to health and wellness." url="https://github.com/HazimDeveloper/restaurant-website" />
+          <Card projectName="Aroma Kitchen" image="aromakitchen.png" language="HTML , CSS ,LARAVEL" for="Freelance" desc="Aromakitchen is a website focused on providing information, tips, and recipes related to aromatherapy and essential oils. It aims to promote natural and holistic approaches to health and wellness." url="https://github.com/HazimDeveloper/restaurant-website" />
         </Row>
         <Row style={{ marginBottom: " 150px", alignItems: "center", marginTop: '150px' }}>
           <Card projectName="Voting Online System" image="voting_system.png" for="Freelance" language="HTML , CSS , PHP NATIVE" desc="Online voting is a secure and accessible digital platform that allows voters to cast their ballots remotely, increasing participation and engagement." url="https://github.com/HazimDeveloper/voting-online-system" />
@@ -114,7 +114,7 @@ const App = () => {
           <Card projectName="Simon Game" language="HTML , CSS , JS"  for="Personal" desc="Simon Game is a popular memory game where players must remember the sequence of flashing lights and sounds. The Simon Game website offers a virtual version of the game for free, with different difficulty levels and modes." image="simon.png" url=" https://github.com/HazimDeveloper/TheSimonGame.git" />
         </Row>
         <Row style={{ marginBottom: " 150px", alignItems: "center", marginTop: '150px' }}>
-          <Card projectName="Search Movie" language="REACT"  for="Personal" desc="This project is made by using tmdb api" image="movie-api.png" url="https://github.com/HazimDeveloper/movie-api-in-react" />
+          <Card projectName="Search Movie" language="HTML , CSS , PHP NATIVE"  for="Personal" desc="This project is made by using tmdb api" image="movie-api.png" url="https://github.com/HazimDeveloper/movie-api-in-react" />
         </Row>
       </Container>
 
