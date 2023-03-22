@@ -72,7 +72,7 @@ const App = () => {
           <h2><span className='text-primary'>Projects</span> that I did</h2>
         </div>
         <Row style={{ marginBottom: " 150px", alignItems: "center", marginTop: '150px' }}>
-          <Card projectName="Aroma Kitchen" image="aromakitchen.png" language="HTML , CSS ,LARAVEL" for="Freelance" desc="Aromakitchen is a website focused on providing information, tips, and recipes related to aromatherapy and essential oils. It aims to promote natural and holistic approaches to health and wellness." url="https://github.com/HazimDeveloper/restaurant-website" />
+          <Card projectName="Aroma Kitchen" image="aromakitchen.png" language="HTML , CSS , LARAVEL" for="Freelance" desc="Aromakitchen is a website focused on providing information, tips, and recipes related to aromatherapy and essential oils. It aims to promote natural and holistic approaches to health and wellness." url="https://github.com/HazimDeveloper/restaurant-website" />
         </Row>
         <Row style={{ marginBottom: " 150px", alignItems: "center", marginTop: '150px' }}>
           <Card projectName="Voting Online System" image="voting_system.png" for="Freelance" language="HTML , CSS , PHP NATIVE" desc="Online voting is a secure and accessible digital platform that allows voters to cast their ballots remotely, increasing participation and engagement." url="https://github.com/HazimDeveloper/voting-online-system" />
